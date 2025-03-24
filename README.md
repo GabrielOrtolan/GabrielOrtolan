@@ -18,7 +18,7 @@
 
 ###
 
-[![Spotify](https://novatorem-3fzlgvjpq-gabrielortolans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Gabriel)
+
 
 
 <div align="left">
@@ -38,6 +38,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
+
+
+[![Spotify](https://novatorem-3fzlgvjpq-gabrielortolans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Gabriel)
 
 ###
 
