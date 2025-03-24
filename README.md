@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11"  />
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9yZjR4emt5eW15b3duNjM0YWg2aTQ5MzEybjUzbWpoeTl6NGo3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"  />
 </div>
 
 ###
