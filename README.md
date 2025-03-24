@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name é Gabriel, sou desenvolvedor júnior Front-end.</p>
+<p align="left">Meu nome é Gabriel, sou desenvolvedor júnior Front-end.</p>
 
 ###
 
