@@ -40,7 +40,6 @@
 </div>
 
 
- [![Spotify](https://novatorem-3fzlgvjpq-gabrielortolans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Gabriel)
 
 ###
 
@@ -52,7 +51,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11"  />
 </div>
 
 ###
