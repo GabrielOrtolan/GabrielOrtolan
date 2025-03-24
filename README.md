@@ -40,7 +40,8 @@
 </div>
 
 
-[![Spotify](https://novatorem-3fzlgvjpq-gabrielortolans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Gabriel)
+[![Spotify](https://novatorem-3fzlgvjpq-gabrielortolans-projects.vercel.app/api/spotify)](https://open.spotify.com/user/
+31sfkzrrjgtewjxs46vrg22mxjvm)
 
 ###
 
